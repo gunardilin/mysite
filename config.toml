@@ -2,11 +2,12 @@ title = "Gunardi"
 baseURL = "https://gohugo-theme-ananke.pages.dev"
 languageCode = "en-us"
 theme = ["ananke"]
-#resourceDir = "../resources"
+resourceDir = "../resources"
 
 DefaultContentLanguage = "en"
 SectionPagesMenu = "main"
 Paginate = 3 # this is set low for demonstrating with dummy content. Set to a higher number
+metaDescription = ""
 googleAnalytics = ""
 enableRobotsTXT = true
 
@@ -27,11 +28,11 @@ enableRobotsTXT = true
 
 [params.ananke_socials]
     [params.ananke_socials.medium]
-        name = "medium"
-        url = "https://medium.com/@gunardilin"
+      name = "medium"
+      url = "https://medium.com/@gunardilin"
     [params.ananke_socials.github]
-        name = "github"
-        url = "https://github.com/theNewDynamic"
+      name = "github"
+      url = "https://github.com/theNewDynamic"
     [params.ananke_socials.linkedin]
-        name = "linkedin"
-        url = "http://www.linkedin.com/in/gunardi-ali"
+      name = "linkedin"
+      url = "http://www.linkedin.com/in/gunardi-ali"

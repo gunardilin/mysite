@@ -88,3 +88,9 @@ of the spectators, had noticed his colloquy with Michel Giborne-Jupiter.
 tongue, my dear Liénarde,” said her neighbor, pretty, fresh, and very
 brave, in consequence of being dressed up in her best attire. “He is not a
 clerk, he is a layman; you must not say master to him, but messire.”
+
+{{< rawhtml >}}
+  <div>
+    This app can be accessed from: <a href="https://gunardi-dashboard.herokuapp.com"><img src="/images/Project-1/link_icon.png" style="width:20px;height:20px;"></a>
+  </div>
+{{< /rawhtml >}}

@@ -1,10 +1,19 @@
 ---
 date: 2023-04-02
 description: "A tool to check if a stock is over-/undervalued"
-featured_image: "/images/Project-1_00.png"
+featured_image: "/images/Project-1/project_home.png"
 tags: ["Python", "Plotly", "Dashboard"]
-title: "Project 1: Plotly Dashboard to Evaluate Stock Price"
+title: "Plotly Dashboard to Evaluate Stock Price"
 ---
+
+# Description:
+This project 
+{{< rawhtml >}} 
+  <a href="https://gunardi-dashboard.herokuapp.com"><img src="/images/Project-1/link_icon.png" style="width:20px;height:20px;"></a>
+{{< /rawhtml >}}
+aims to help calculating the fair value of a company stock. Therefore it could indicate if a stock is **over-** or **under**valued. Without this app, the author would have to scour the internet to copy the financial datas and entering them manualy into calculator to get an estimation. 
+
+# Details:
 
 * Created a dashboard using Python and Plotly library.
 * Can be accessed on: https://gunardi-dashboard.herokuapp.com
