@@ -36,3 +36,18 @@ enableRobotsTXT = true
     [params.ananke_socials.linkedin]
       name = "linkedin"
       url = "http://www.linkedin.com/in/gunardi-ali"
+  
+[[menu.main]]
+  name = "Home"
+  url = "/"
+  weight = 10
+
+[[menu.main]]
+  name = "About"
+  url = "/about"
+  weight = 20
+
+[[menu.main]]
+  name = "Contact"
+  url = "/contact"
+  weight = 40
