@@ -11,6 +11,8 @@ metaDescription = ""
 googleAnalytics = ""
 enableRobotsTXT = true
 
+canonifyURLs = true
+
 [sitemap]
   changefreq = "monthly"
   priority = 0.5
