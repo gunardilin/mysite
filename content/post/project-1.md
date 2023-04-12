@@ -1,7 +1,7 @@
 ---
 date: 2023-04-02
 description: "A tool to check if a stock is over-/undervalued"
-featured_image: "/images/project-1/project-1_00.png"
+featured_image: 'images/project-1/project-1_00.png'
 tags: ["Python", "Plotly", "Dashboard"]
 title: "Plotly Dashboard to Evaluate Stock Price"
 ---

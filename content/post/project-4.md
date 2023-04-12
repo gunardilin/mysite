@@ -1,7 +1,7 @@
 ---
 title: "Data Analysis of Community Discussions on Security Issues"
 description: "Applying data exploratory analysis and an unsupervised Machine Learning algorithm (LDA) on 264.148 text data collected from StackOverflow"
-featured_image: "/images/project-4/lda_pyldavis.png"
+featured_image: 'images/project-4/lda_pyldavis.png'
 date: 2023-04-12T21:17:04+02:00
 draft: false
 tags: ["Python", "NLP", "Data Analytic"]
