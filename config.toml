@@ -36,6 +36,10 @@ enableRobotsTXT = true
     [params.ananke_socials.linkedin]
       name = "linkedin"
       url = "http://www.linkedin.com/in/gunardi-ali"
+    [params.ananke_socials.Resume]
+      name = "resume"
+      url = "/docs/Lebenslauf.pdf"
+      label = "resume"
   
 [[menu.main]]
   name = "Home"
