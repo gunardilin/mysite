@@ -1,7 +1,7 @@
 ---
 title: "About"
 description: "Short Description About Me"
-featured_image: '/images/site_images/about_photo.jpg'
+featured_image: '/images/siteimages/about_photo.jpg'
 ---
 
 {{< rawhtml >}} 
