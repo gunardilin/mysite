@@ -1,7 +1,7 @@
 ---
 date: 2023-04-02
 description: "A tool to check if a stock is over-/undervalued"
-featured_image: "/images/Project-1/Project-1_00.png"
+featured_image: "/images/project-1/Project-1_00.png"
 tags: ["Python", "Plotly", "Dashboard"]
 title: "Plotly Dashboard to Evaluate Stock Price"
 ---
@@ -20,14 +20,14 @@ This web app is built with *Python* and *plotly* library. After opening the web 
 {{< /rawhtml >}}, it performs web scraping to get the up to date list of S&P500 company from Wikipedia. Furthermore it also retrieves list of foreign companies from multiple sources. The complete list of companies is shown as a dropdown menu:
 {{< rawhtml >}} 
 <center>
-  <img style="border:2px solid black;" src="/images/Project-1/Project-1_01.png" width="210" height="200"/>
+  <img style="border:2px solid black;" src="/images/project-1/Project-1_01.png" width="210" height="200"/>
 </center>
 {{< /rawhtml >}}
 
 The user can input one or multiple companies either by entering company name `Apple` or its stock ticker `aapl`. After selecting companies, the historical stock price is visualized and selected financial metrics are shown in table.
 {{< rawhtml >}} 
 <center>
-  <img style="border:2px solid black;" src="/images/Project-1/Project-1_02.png" width="80%" height="80%"/>
+  <img style="border:2px solid black;" src="/images/project-1/Project-1_02.png" width="80%" height="80%"/>
 </center>
 {{< /rawhtml >}}
 
@@ -41,6 +41,6 @@ These parameters influence the calculation if a stock is overvalued (sell) or un
 
 {{< rawhtml >}} 
 <center>
-  <img style="border:2px solid black;" src="/images/Project-1/Project-1_03.png" width="100%" height="80%"/>
+  <img style="border:2px solid black;" src="/images/project-1/Project-1_03.png" width="100%" height="80%"/>
 </center>
 {{< /rawhtml >}}
