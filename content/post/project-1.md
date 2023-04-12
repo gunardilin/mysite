@@ -9,14 +9,14 @@ title: "Plotly Dashboard to Evaluate Stock Price"
 # Description:
 This project 
 {{< rawhtml >}} 
-  <a href="https://gunardi-dashboard.herokuapp.com" target="_blank"><img src="/images/site_images/link_icon.png" style="width:20px;height:20px;"></a>
+  <a href="https://gunardi-dashboard.herokuapp.com" target="_blank"><img src="/images/siteimages/link_icon.png" style="width:20px;height:20px;"></a>
 {{< /rawhtml >}}
 aims to help calculating the fair value of a company stock. Therefore it could indicate if a stock is **over**- or **under**valued. Without this web app, the author would have to scour the internet to copy the financial datas and entering them manualy into calculator to get an estimation. 
 
 # Details:
 This web app is built with *Python* and *plotly* library. After opening the web app
 {{< rawhtml >}} 
-  <a href="https://gunardi-dashboard.herokuapp.com" target="_blank"><img src="/images/site_images/link_icon.png" style="width:20px;height:20px;"></a>
+  <a href="https://gunardi-dashboard.herokuapp.com" target="_blank"><img src="/images/siteimages/link_icon.png" style="width:20px;height:20px;"></a>
 {{< /rawhtml >}}, it performs web scraping to get the up to date list of S&P500 company from Wikipedia. Furthermore it also retrieves list of foreign companies from multiple sources. The complete list of companies is shown as a dropdown menu:
 {{< rawhtml >}} 
 <center>

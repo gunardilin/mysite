@@ -1,6 +1,6 @@
 ---
 title: Contact
-featured_image: '/images/site_images/notebook.jpg'
+featured_image: '/images/siteimages/notebook.jpg'
 omit_header_text: true
 description: We'd love to hear from you
 type: page

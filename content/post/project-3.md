@@ -13,9 +13,9 @@ In this case study, an imaginary junior data analyst works in marketing departme
 - How can digital media used to influence casual riders to become members?
 
 To see the result of my analysis, click: {{< rawhtml >}} 
-  <a href="/docs/Project-3/02_Bikeshare.pdf" target="_blank"><img src="/images/site_images/link_icon.png" style="width:20px;height:20px;"></a>
+  <a href="/docs/Project-3/02_Bikeshare.pdf" target="_blank"><img src="/images/siteimages/link_icon.png" style="width:20px;height:20px;"></a>
 {{< /rawhtml >}}.
 
 For this analysis I used R programming language and the R code can be seen -> {{< rawhtml >}} 
-  <a href="/docs/Project-3/Bike_Share_Case_Study.html" target="_blank"><img src="/images/site_images/link_icon.png" style="width:20px;height:20px;"></a>
+  <a href="/docs/Project-3/Bike_Share_Case_Study.html" target="_blank"><img src="/images/siteimages/link_icon.png" style="width:20px;height:20px;"></a>
 {{< /rawhtml >}}.
