@@ -6,7 +6,7 @@ featured_image: '/images/site_images/about_photo.jpg'
 
 {{< rawhtml >}} 
     <div style="align: left; text-align:center;">
-        <img src="/images/site_images/my_photo.JPG" height="50%" width="50%" />
+        <img src="/images/site_images/my_photo.jpg" height="50%" width="50%" />
         <div class="caption">Gunardi Ali</div>
     </div>
 {{< /rawhtml >}}
