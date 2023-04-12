@@ -1,8 +1,18 @@
 ---
 title: "About"
-description: "A few years ago, while visiting or, rather, rummaging about Notre-Dame, the author of this book found, in an obscure nook of one of the towers, the following word, engraved by hand upon the wall: —ANANKE."
-featured_image: '/images/Victor_Hugo-Hunchback.jpg'
+description: "Short Description About Me"
+featured_image: '/images/site_images/about_photo.jpg'
 ---
-{{< figure src="/images/Victor_Hugo-Hunchback.jpg" title="Illustration from Victor Hugo et son temps (1881)" >}}
 
-_The Hunchback of Notre-Dame_ (French: _Notre-Dame de Paris_) is a French Romantic/Gothic novel by Victor Hugo, published in 1831. The original French title refers to Notre Dame Cathedral, on which the story is centered. English translator Frederic Shoberl named the novel The Hunchback of Notre Dame in 1833 because at the time, Gothic novels were more popular than Romance novels in England. The story is set in Paris, France in the Late Middle Ages, during the reign of Louis XI.
+{{< rawhtml >}} 
+    <div style="align: left; text-align:center;">
+        <img src="/images/site_images/my_photo.JPG" height="50%" width="50%" />
+        <div class="caption">Gunardi Ali</div>
+    </div>
+{{< /rawhtml >}}
+
+I am Gunar, born in Jakarta, Indonesia and living in Munich, Germany. I have been working in automobile industry as [PLM](https://en.wikipedia.org/wiki/Product_lifecycle)-Engineer specializing in mechanical construction using systems like [Windchill](https://www.ptc.com/en/products/windchill) and [CATIA](https://www.3ds.com/products-services/catia/). 
+
+During Covid lockdown, I have found a new passion: solving problems using Python programming language. Since then I embarked on a journey to be a better problem solver. With the time goes on, my interest in Data Analytic and Machine Learning is growing. Up until a certain point, I enrolled in multiple different online courses. But since my decision in August 2022 to learn about these topics in a correct manner (hard way), I decided to go back to university to [study Data Science as part time student](https://www.hs-harz.de/data-science-berufsbegleitend), while working full time. It requires discipline and some times it could get hard and frustrating. But I haven't regretted once about it. If any, I get sometimes disappointed not to be able to learn or understand things faster. But I remind myself, this is a Marathon, instead of a Sprint and I intend to finish it. 
+
+{{< figure src="/images/site_images/about_motivation_photo.jpg" title="" >}}
