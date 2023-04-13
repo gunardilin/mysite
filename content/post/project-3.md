@@ -7,6 +7,7 @@ draft: false
 tags: ["R", "Data Analytic"]
 ---
 
+# Description:
 In this case study, an imaginary junior data analyst works in marketing department at a bike-share company. The director believes the company’s success depends on maximizing the number of annual membership. The assignment for the analytic team is to analyze available dataset to answer following questions:
 - How do annual members and casual riders use rental bike differently?
 - Why would casual riders buy annual memberships?
