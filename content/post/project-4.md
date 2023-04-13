@@ -17,3 +17,11 @@ My report for this project can be found: {{< rawhtml >}}
 The visualization for my LDA output can be found: {{< rawhtml >}} 
   <a href="/docs/project-4/02_lda_2012-2021_6_topics.html" target="_blank"><img src="/images/siteimages/link_icon.png" style="width:20px;height:20px;"></a>
 {{< /rawhtml >}}.
+
+# Future Articles:
+I will write Medium articles to document the following important steps for this project:
+{{< rawhtml >}} 
+<center>
+  <img style="border:2px solid black;" src="/images/project-4/project_diagram.png" width="100%" height="100%"/>
+</center>
+{{< /rawhtml >}}
