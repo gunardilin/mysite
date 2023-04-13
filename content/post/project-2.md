@@ -1,7 +1,7 @@
 ---
 title: "Best way to speed up a bulk of HTTP requests in Python"
 description: "How to web scrape as fast as possible & not get banned using Asyncio?"
-featured_image: 'images/project-2/Skateboard.jpg'
+featured_image: 'images/Project-2/Skateboard.jpg'
 date: 2023-04-12T15:53:00+02:00
 draft: false
 tags: ["Python", "Data Collection"]
