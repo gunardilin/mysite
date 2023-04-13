@@ -5,4 +5,4 @@ description: "My name is Gunardi"
 theme_version: '2.8.2'
 featured_image: 'images/siteimages/homepage.jpg'
 ---
-Welcome to my blog with some of my work in progress. I am a data scientist in the making. You can read some of my projects below.
+Welcome to my personal blog. I am a data scientist in the making. You can read some of my projects below.
