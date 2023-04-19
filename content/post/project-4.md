@@ -4,7 +4,7 @@ description: "Applying data exploratory analysis and an unsupervised Machine Lea
 featured_image: 'images/project-4/lda_pyldavis.png'
 date: 2023-04-12T21:17:04+02:00
 draft: false
-tags: ["Python", "NLP", "Data Analytic"]
+tags: ["Python", "NLP", "Data Analytic", "SQL"]
 ---
 
 # Description:
