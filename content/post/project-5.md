@@ -1,9 +1,9 @@
 +++
 title = 'Price Elasticity'
-date = 2023-04-23T19:36:23-07:00
+date = 2023-04-23T09:59:23-07:00
 draft = false
-featured_image = 'images/project-5/price_elasticity.png'
 relPermalinkOverride = '/docs/project-5/price_elasticity.html'
+featured_image = 'images/project-5/price_elasticity.png'
 tags = ['Python', "Data Analytic", "Finance"]
 +++
 
