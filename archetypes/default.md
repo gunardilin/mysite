@@ -2,7 +2,7 @@
 title: "{{ replace .Name "-" " " | title }}"
 description: ""
 featured_image: "/images/..."
-date: {{ .Date }}
+date: {{ dateFormat "02 January 2006" .Date }}
 draft: true
 tags: ["Python", "Plotly", "Dashboard"]
 ---
