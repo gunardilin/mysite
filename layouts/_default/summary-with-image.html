@@ -3,8 +3,12 @@
   <div class="db pv4 ph3 ph0-l no-underline dark-gray">
     <div class="flex flex-column flex-row-ns">
       {{ $href := .RelPermalink }}
-      {{ with resources.Get .Params.relPermalinkOverride }}
-        {{ $href = .RelPermalink }}
+      {{ with .Params.relPermalinkOverride }}
+        {{ with resources.Get . }}
+          {{ $href = .RelPermalink }}
+        {{ else }}
+          {{ $href = . }}
+        {{ end }}
       {{ end }}
       {{ if $featured_image }}
           {{/* Trimming the slash and adding absURL make sure the image works no matter where our site lives */}}

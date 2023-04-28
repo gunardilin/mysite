@@ -4,7 +4,7 @@ featured_image: "/images/project-6/collecting_data.png"
 date: 2023-04-28
 draft: False
 tags: ["Python", "SQL", "NLP", "Machine Learning"]
-canonicalUrl: "https://medium.com/@gunardilin/analysing-260-000-text-documents-d43305a22b50"
+relPermalinkOverride: "https://medium.com/@gunardilin/analysing-260-000-text-documents-d43305a22b50"
 ---
 **This article is still in work.**
 
