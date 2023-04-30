@@ -24,6 +24,7 @@ canonifyURLs = true
   favicon = ""
   site_logo = ""
   TIMEZONE = "Europe/Berlin"
+  date_format = "2. January 2006"
   description = "The last theme you'll ever need. Maybe."
   # choose a background color from any on this page: https://tachyons.io/docs/themes/skins/ and preface it with "bg-"
   background_color_class = "bg-black"
@@ -33,16 +34,20 @@ canonifyURLs = true
     [params.ananke_socials.medium]
       name = "medium"
       url = "https://medium.com/@gunardilin"
+      color = "#008cff"
     [params.ananke_socials.github]
       name = "github"
       url = "https://github.com/gunardilin"
+      color = "#008cff"
     [params.ananke_socials.linkedin]
       name = "linkedin"
       url = "http://www.linkedin.com/in/gunardi-ali"
+      color = "#008cff"
     [params.ananke_socials.Resume]
       name = "resume"
       url = "/docs/Lebenslauf.pdf"
-      label = "resume"
+      label = "Resume"
+      color = "#008cff"
   
 [[menu.main]]
   name = "Home"
