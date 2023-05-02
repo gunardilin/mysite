@@ -5,6 +5,7 @@ featured_image: 'images/Project-2/Skateboard.jpg'
 date: 2023-04-12T15:53:00+02:00
 draft: false
 tags: ["Python", "Data Collection"]
+relPermalinkOverride: "https://medium.com/dev-genius/best-way-to-speed-up-a-bulk-of-http-requests-in-python-4ec75badabed"
 ---
 
 # Description:
