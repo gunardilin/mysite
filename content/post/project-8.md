@@ -1,5 +1,5 @@
 ---
-title: "How Neural Network Works Under The Hood?"
+title: "How Neural Network works under the hood?"
 description: ""
 featured_image: "/images/project-8/neural_network.png"
 date: 2023-05-19T16:09:34+02:00
