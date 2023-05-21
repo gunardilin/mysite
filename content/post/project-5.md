@@ -7,4 +7,6 @@ featured_image = 'images/project-5/price_elasticity.png'
 tags = ['Python', "Data Analytic", "Finance"]
 +++
 
-Description: This article is about how to use price elasticity theory to determine optimal price that maximizes revenues.
+Description: This article {{< rawhtml >}} 
+  <a href="/docs/project-5/price_elasticity.html" style="width:20px;height:20px;"></a>
+{{< /rawhtml >}}is about how to use price elasticity theory to determine optimal price that maximizes revenues.
