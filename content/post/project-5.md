@@ -8,5 +8,5 @@ tags = ['Python', "Data Analytic", "Finance"]
 +++
 
 Description: This article {{< rawhtml >}} 
-  <a href="/docs/project-5/price_elasticity.html" style="width:20px;height:20px;"></a>
+  <a href="/docs/project-5/price_elasticity.html"><img src="/images/siteimages/link_icon.png" style="width:20px;height:20px;"></a>
 {{< /rawhtml >}}is about how to use price elasticity theory to determine optimal price that maximizes revenues.
