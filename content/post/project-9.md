@@ -10,4 +10,4 @@ tags: ["Python", "Data Analytic", "Finance"]
 ---
 
 # Description:
-In this project, I will do a survival analysis using Germany life table from year 2008.
+In this project, I perform a survival analysis using Germany life table from year 2008.
