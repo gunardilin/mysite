@@ -11,7 +11,9 @@ This project
 {{< rawhtml >}} 
   <a href="https://gunardi-dashboard.herokuapp.com" target="_blank"><img src="/images/siteimages/link_icon.png" style="width:20px;height:20px;"></a>
 {{< /rawhtml >}}
-aims to help calculating the fair value of a company stock. Therefore it could indicate if a stock is **over**- or **under**valued. Without this web app, the author would have to scour the internet to copy the financial datas and entering them manualy into calculator to get an estimation. 
+aims to help calculating the fair value of a company stock. Therefore it could indicate if a stock is **over**- or **under**valued. Without this web app, the author would have to scour the internet to copy the financial datas and entering them manualy into calculator to get an estimation.
+
+**Warning**: If the app is in sleep mode, it would take 30–45 seconds to reactivate, so have patience.
 
 # Details:
 This web app is built with *Python* and *plotly* library. After opening the web app
