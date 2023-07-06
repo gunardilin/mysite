@@ -39,6 +39,12 @@ For the fair value calculation, the dashboard needs the following input paramete
 3. Assumption: Annual EPS Growth Rate,
 4. Assumption: PE-Ratio.
 
+The **editable input parameters** are shown in the next screenshot:
+{{< rawhtml >}} 
+<center>
+  <img style="border:2px solid black;" src="/images/Project-1/Project-1_04.png" width="100%" height="100%"/>
+</center>
+{{< /rawhtml >}}
 These parameters influence the calculation if a stock is overvalued (sell) or undervalued (buy).
 
 {{< rawhtml >}} 
