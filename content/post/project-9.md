@@ -1,7 +1,6 @@
 ---
 title: "Survival Analysis"
 description: ""
-featured_image: "/images/..."
 date: 2023-06-11T12:15:57+02:00
 draft: false
 relPermalinkOverride: "/docs/project-9/lebenserwartung.html"
