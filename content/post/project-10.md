@@ -1,5 +1,5 @@
 ---
-title: "Transfer Learning & Fine Tuning Pre-Traine Model"
+title: "Transfer Learning & Fine Tuning Pre-Trained Model"
 description: ""
 featured_image: "/images/project-10/cat_or_dog.png"
 date: 2023-10-23T15:23:34+02:00
