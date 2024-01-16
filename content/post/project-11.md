@@ -10,5 +10,3 @@ relPermalinkOverride: "/docs/project-11/nlp01.html"
 
 # Description:
 This notebook shows how to perform sentiment analysis and perform summarization on long document. 
-
-# Details:
